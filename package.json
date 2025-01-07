@@ -4,12 +4,17 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "install-lit-html": "node installLitHtml.js"
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "lit-html": "^3.2.1"
-  }
+  } 
+  
+   
+  
 }
